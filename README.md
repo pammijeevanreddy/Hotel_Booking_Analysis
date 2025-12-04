@@ -72,7 +72,7 @@ PROJECT STRUCTURE :-
 
 hotel-booking-analysis/
 │
-├── venv/                        # Virtual environment
+├── venv/                       
 ├── data/
 │   └── hotel_bookings.csv
 │
